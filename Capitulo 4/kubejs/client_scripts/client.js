@@ -1,4 +1,4 @@
-// priority: 1
+// priority: 2
 
 onEvent('jei.hide.items', event => {
 	event.hide('appliedenergistics2:facade')
