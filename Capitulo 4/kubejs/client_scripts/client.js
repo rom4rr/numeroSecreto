@@ -1,5 +1,5 @@
 // priority: 0
-//apasdasdvcfxfsdfsdf
+
 onEvent('jei.hide.items', event => {
 	event.hide('appliedenergistics2:facade')
 	event.hide(`#buddycards:cards`)
