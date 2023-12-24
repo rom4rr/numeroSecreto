@@ -12,7 +12,7 @@
     > Set Kubejs display name as "The InBetween"
 
 
-**Server Scripts**  
+## **Server Scripts**  
   
     > Banlist  
         - Clutter Bronze/Silver/Gold Coins/Coin Pouches removed;  
@@ -48,7 +48,7 @@
   
     > Testing Starter Kits  
 
-**Resource Packs**  
+## **Resource Packs**  
   
     > Changed the drop of the Coin Stacks  
   
