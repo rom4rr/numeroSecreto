@@ -1,13 +1,13 @@
 **Changes made using KubeJs**
 
-*Startup Scripts*
-    -> Blocks;
-        - Testing fake blocks and phantom blocks;
-    -> Food
-        - Added Apple Slices, Pão de Queijo, Brigadeiro, Tiramisu and Brigadeiro Paper Forms;
-    -> World Gen
-        - Removed Salt and Silver from the world generation;
-    -> Set Kubejs display name as "The InBetween"
+*Startup Scripts*  
+    -> Blocks;  
+        - Testing fake blocks and phantom blocks;  
+    -> Food  
+        - Added Apple Slices, Pão de Queijo, Brigadeiro, Tiramisu and Brigadeiro Paper Forms;  
+    -> World Gen  
+        - Removed Salt and Silver from the world generation;  
+    -> Set Kubejs display name as "The InBetween"  
 
 
 *Server Scripts*
