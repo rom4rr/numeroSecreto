@@ -54,5 +54,5 @@
   
     > Changed the display name of the "Golden Coins" to "Gold Coins"  
   
-    > Added a custom title for the main menu and removed the Splash Texts  
+    > Added a custom title for the main menu and removed the Splash Texts 
 
