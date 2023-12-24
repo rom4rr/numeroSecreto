@@ -13,6 +13,7 @@
 
 
 *Server Scripts*  
+  
     > Banlist  
         - Clutter Bronze/Silver/Gold Coins/Coin Pouches removed;  
         - Extra Alchemy potion rings removed;  
