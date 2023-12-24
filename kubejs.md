@@ -1,6 +1,6 @@
 # **Modifications with KubeJs**
 
-**Startup Scripts**  
+## **Startup Scripts**  
   
     > Blocks  
         - Testing fake blocks and phantom blocks;  
