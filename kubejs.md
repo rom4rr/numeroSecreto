@@ -2,7 +2,7 @@
 
 ## **Startup Scripts**  
   
-    ### > Blocks  
+    > Blocks  
         - Testing fake blocks and phantom blocks;  
     > Food
         - Added Apple Slices, Pão de Queijo, Brigadeiro, Tiramisu and Brigadeiro Paper Forms;
