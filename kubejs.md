@@ -1,6 +1,6 @@
 **Changes made using KubeJs**
 
-*Startup Scripts*
+**Startup Scripts**  
   
     > Blocks  
         - Testing fake blocks and phantom blocks;  
@@ -12,7 +12,7 @@
     > Set Kubejs display name as "The InBetween"
 
 
-*Server Scripts*  
+**Server Scripts**  
   
     > Banlist  
         - Clutter Bronze/Silver/Gold Coins/Coin Pouches removed;  
@@ -48,11 +48,11 @@
   
     > Testing Starter Kits  
 
-*Resource Packs*  
+**Resource Packs**  
   
     > Changed the drop of the Coin Stacks  
   
     > Changed the display name of the "Golden Coins" to "Gold Coins"  
   
-    > Added a custom title for the main menu and removed the Splash Texts 
+    > Added a custom title for the main menu and removed the Splash Texts  
 
